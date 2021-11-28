@@ -1,0 +1,28 @@
+body {
+    font-size: 20px;
+    background-color: #A2D2FF;
+}
+
+hr {
+    border: dotted;
+    max-width: 200px;
+    align-items: center;
+}
+
+.table {
+    max-width: 250px;
+    max-height: 250px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.projects {
+    padding: 10px 0;
+}
+
+em {
+    font-size: 25px;
+}
